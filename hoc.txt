@@ -1,0 +1,6 @@
+According to a Forbes Magazine study, the annual cost of cybercrime in the United States alone has reached how much?
+A defined way to breach the security of an IT system through a vulnerability” is the definition of which key cybersecurity term?
+“A situation involving exposure to a danger.” Is the definition of which key cybersecurity term?
+Alice sends an encrypted message to Bob but it is intercepted by Trudy.  Trudy cannot read it so, in anger, she deletes it without allowing its delivery to Bob. Which precept of the CIA Triad would have been violated?
+Alice sends an encrypted message to Bob but it is intercepted by Trudy. Trudy cannot read it but forwards it on to Bob from an anonymous address she controls. Which precept of the CIA Triad would have been violated?
+According to the Vulnerability Assessment Methodology, Vulnerabilities are determined by which 2 factors?
